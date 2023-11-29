@@ -1,2 +1,2 @@
 # partenaires-particuliers
-create website for stage 
+refonte du site web de l'entreprise pendant mon stage
